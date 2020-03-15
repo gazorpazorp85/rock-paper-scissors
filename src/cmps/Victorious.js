@@ -7,9 +7,9 @@ export default function Victorious() {
     const [isThirdCircleShown, setIsThirdCircleShown] = useState(false);
 
     useEffect(() => {
-        let firstTimeout = () => setTimeout(() => setIsFirstCircleShown(true), 1000);
-        let secondTimeout = () => setTimeout(() => setIsSecondCircleShown(true), 2000);
-        let thirdTimeout = () => setTimeout(() => setIsThirdCircleShown(true), 3000);
+        const firstTimeout = () => setTimeout(() => setIsFirstCircleShown(true), 500);
+        const secondTimeout = () => setTimeout(() => setIsSecondCircleShown(true), 1000);
+        const thirdTimeout = () => setTimeout(() => setIsThirdCircleShown(true), 1500);
         firstTimeout();
         secondTimeout();
         thirdTimeout();
