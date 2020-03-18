@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8cf5096c472abf815041382e63f85c04",
+    "revision": "166ceb1d856dc55f6193ce0599a04504",
     "url": "/rock-paper-scissors/index.html"
   },
   {
-    "revision": "142d1a1aab683d950474",
-    "url": "/rock-paper-scissors/static/css/main.3b9d27ae.chunk.css"
+    "revision": "26e7d3587f8add3257fd",
+    "url": "/rock-paper-scissors/static/css/main.359745ed.chunk.css"
   },
   {
-    "revision": "7f6a540cebd5e909a9c9",
-    "url": "/rock-paper-scissors/static/js/2.1df451f8.chunk.js"
+    "revision": "b925726139347223be38",
+    "url": "/rock-paper-scissors/static/js/2.9a5d8560.chunk.js"
   },
   {
     "revision": "f231859d6585c4cd5f80c344783ed269",
-    "url": "/rock-paper-scissors/static/js/2.1df451f8.chunk.js.LICENSE.txt"
+    "url": "/rock-paper-scissors/static/js/2.9a5d8560.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "142d1a1aab683d950474",
-    "url": "/rock-paper-scissors/static/js/main.a39e2af4.chunk.js"
+    "revision": "26e7d3587f8add3257fd",
+    "url": "/rock-paper-scissors/static/js/main.d42aa2a8.chunk.js"
   },
   {
     "revision": "2b8a8029f4c18539d164",
@@ -58,5 +58,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5d74d25d9c64bde346585ec7e7587a69",
     "url": "/rock-paper-scissors/static/media/image-rules.5d74d25d.svg"
+  },
+  {
+    "revision": "2e652c5a8115fc12250fd291a2d7e388",
+    "url": "/rock-paper-scissors/static/media/lose.2e652c5a.mp3"
+  },
+  {
+    "revision": "8821ca837ad40e1debd78c99b9936bda",
+    "url": "/rock-paper-scissors/static/media/win.8821ca83.mp3"
   }
 ]);
